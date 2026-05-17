@@ -1,0 +1,15 @@
+  google-play-scraper
+pandas
+transformers
+torch
+vaderSentiment
+textblob
+spacy
+scikit-learn
+psycopg2-binary
+sqlalchemy
+matplotlib
+seaborn
+notebook
+pytest
+python-dotenv

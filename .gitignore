@@ -1,0 +1,13 @@
+data\
+*.csv
+*.db  
+
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+*.egg-info/
+
+
+.vscode/
